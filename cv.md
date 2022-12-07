@@ -3,7 +3,7 @@
 ---
 [Location: Bodrum, Türkiye](https://goo.gl/maps/N9Q2N26S4MUMrMtr7)
 
-[Telegram: @mikhasev](t.me/mikhasev)
+[Telegram: @mikhasev](https://t.me/mikhasev)
 
 [Email: mikhasev@gmail.com](mailto:mikhasev@gmail.com)
 
