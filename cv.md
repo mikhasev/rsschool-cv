@@ -1,10 +1,8 @@
 # Mikhail Mikhasev
 
-    Location: Bodrum, Türkiye
-
-    Telegram: @mikhasev
-
-    Email: mikhasev@gmail.com
+[Location: Bodrum, Türkiye](https://goo.gl/maps/N9Q2N26S4MUMrMtr7)
+[Telegram: @mikhasev](t.me/mikhasev)
+[Email: mikhasev@gmail.com](mailto:mikhasev@gmail.com)
 
 **Aspiring Frontend Web Developer. Ex-Project Manager.**
 
