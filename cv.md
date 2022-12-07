@@ -1,12 +1,14 @@
 # Mikhail Mikhasev
-**Aspiring Frontend Web Developer. Ex-Project Manager.**
+
+## Aspiring Frontend Web Developer. Ex-Project Manager
+
 ---
+
 [Location: Bodrum, Türkiye](https://goo.gl/maps/N9Q2N26S4MUMrMtr7)
 
-[Telegram: @mikhasev](https://t.me/mikhasev)
+[Telegram: @mikhasev](https://t.me/mikhasev/)
 
 [Email: mikhasev@gmail.com](mailto:mikhasev@gmail.com)
-
 
 ## Bio
 
@@ -57,7 +59,6 @@ The Odin: Web Development Foundations
 
 FreeCodeCamp: Web Development
 
-
 ### 2007
 
 Saint-Petersburg State University, International Relationships, Master's Degree
@@ -75,4 +76,3 @@ English: C1
 German: B2
 
 Turkish: B2
-
