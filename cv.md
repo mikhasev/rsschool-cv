@@ -1,22 +1,18 @@
 # Mikhail Mikhasev
 
-[Location: Bodrum, Türkiye](https://goo.gl/maps/N9Q2N26S4MUMrMtr7)\
-[Telegram: @mikhasev](t.me/mikhasev)\
+[Location: Bodrum, Türkiye](https://goo.gl/maps/N9Q2N26S4MUMrMtr7)
+
+[Telegram: @mikhasev](t.me/mikhasev)
+
 [Email: mikhasev@gmail.com](mailto:mikhasev@gmail.com)
+
 
 **Aspiring Frontend Web Developer. Ex-Project Manager.**
 
 ## Bio
 
     With 8+ years of experience in project management and a passion for frontend development,
-     I am an highly motivated professional seeking to leverage my skills to create innovative 
-     web applications.
-
-    My background in project management has enabled me to cultivate a strong understanding of 
-    the importance of projects and their structure, as well as the ability to effectively 
-    manage stakeholders and resources. As a frontend developer, I strive to create visually 
-    stunning applications that are both user-friendly and highly functional aimed to make our 
-    world a better place.
+    I am an highly motivated professional seeking to leverage my skills to create innovative web applications. My background in project management has enabled me to cultivate a strong understanding of the importance of projects and their structure, as well as the ability to effectively manage stakeholders and resources. As a frontend developer, I strive to create visually stunning applications that are both user-friendly and highly functional aimed to make our world a better place.
 
 ## Skills
 
